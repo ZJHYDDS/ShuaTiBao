@@ -1,0 +1,14 @@
+{
+  "background_color": "#f6f1e8",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "刷题宝",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "zjhydds.github",
+  "start_url": "https://zjhydds.github.io/ShuaTiBao/",
+  "theme_color": "#2a2723",
+  "id": "com.shuatibao.app",
+  "description": "智能题库学习工具",
+  "lang": "zh"
+}
